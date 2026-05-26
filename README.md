@@ -1,15 +1,15 @@
 # Connector GUI / Connector API
 
-> A lightweight Windows .NET project providing a GUI and connector components for integrating with the CV_Analayser platform.
+> A lightweight Windows .NET project providing a GUI and connector components for integrating with external services and systems.
 
 ## Project Overview
 
-This repository contains the Connector GUI and supporting API code used to connect local systems to the CV_Analayser service. It includes a WinForms GUI (`ConnectorGui.sln`) and related projects, configuration files, and OpenAPI specifications located in the `OpenAPIs/` folder.
+This repository contains the Connector GUI and supporting API code used to connect local systems to external services. It includes a WinForms GUI (`ConnectorGui.sln`) and related projects, configuration files, and OpenAPI specifications located in the `OpenAPIs/` folder.
 
 ## Key Features
 
 - WinForms-based configuration and management UI
-- Connector components to integrate with CV_Analayser
+- Connector components to integrate with external services
 - OpenAPI specifications for API endpoints (see `OpenAPIs/`)
 - Simple build and run instructions for Windows developers
 
@@ -88,4 +88,4 @@ For questions or support, contact the project maintainer or open an issue in the
 
 ## Acknowledgements
 
-Thanks to the contributors and the CV_Analayser project team for guidance and API specifications.
+Thanks to the contributors and the project team for guidance and API specifications.
